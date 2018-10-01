@@ -1,5 +1,9 @@
-# README
+# Solidity Inbox - Demo App
 
-## TEST
+## Installation
 
- `npm test`
+  `npm install`
+
+## Testing
+
+  `npm test`
